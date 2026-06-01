@@ -1,0 +1,24 @@
+# Backend
+backend/node_modules/
+backend/.env
+backend/.env.local
+backend/npm-debug.log
+
+# Mobile
+mobile/node_modules/
+mobile/.watchmanconfig
+mobile/android/
+mobile/ios/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Database
+*.sql~

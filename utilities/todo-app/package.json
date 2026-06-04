@@ -1,0 +1,12 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Feature-rich to-do list application with local storage",
+  "main": "todo.js",
+  "scripts": {
+    "start": "open index.html || xdg-open index.html"
+  },
+  "keywords": ["todo", "tasks", "local-storage", "productivity"],
+  "author": "HustleHub",
+  "license": "MIT"
+}
